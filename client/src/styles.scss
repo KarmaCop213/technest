@@ -1,0 +1,83 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+@-o-keyframes fadeItRed {
+    0% {
+        background-color: #FFFFFF;
+    }
+
+    50% {
+        background-color: red;
+    }
+
+    100% {
+        background-color: #FFFFFF;
+    }
+}
+
+@keyframes fadeItRed {
+    0% {
+        background-color: #FFFFFF;
+    }
+
+    50% {
+        background-color: red;
+    }
+
+    100% {
+        background-color: #FFFFFF;
+    }
+}
+
+@-o-keyframes fadeItGreen {
+    0% {
+        background-color: #FFFFFF;
+    }
+
+    50% {
+        background-color: green;
+    }
+
+    100% {
+        background-color: #FFFFFF;
+    }
+}
+
+@keyframes fadeItGreen {
+    0% {
+        background-color: #FFFFFF;
+    }
+
+    50% {
+        background-color: green;
+    }
+
+    100% {
+        background-color: #FFFFFF;
+    }
+}
+
+.backgroundRed {
+    background-image: none !important;
+    -o-animation: fadeItRed 1s ease-in-out;
+    animation: fadeItRed 1s ease-in-out;
+}
+
+.backgroundGreen {
+    background-image: none !important;
+    -o-animation: fadeItGreen 1s ease-in-out;
+    animation: fadeItGreen 1s ease-in-out;
+}
+
+.padding {
+    padding: 20px;
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "accountId": 1,
+    "accountName": "Macronaut",
+    "category": "category 2",
+    "tags": [
+      "tag 3",
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "50157796.4512",
+    "availableBalance": "72896860.8058"
+  },
+  {
+    "accountId": 2,
+    "accountName": "Vortexaco",
+    "category": "category 3",
+    "tags": [
+      "tag 1",
+      "tag 2",
+      "tag 3",
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "11080422.4317",
+    "availableBalance": "35454810.891"
+  },
+  {
+    "accountId": 3,
+    "accountName": "Atomica",
+    "category": "category 1",
+    "tags": [
+      "tag 1",
+      "tag 2"
+    ],
+    "balance": "3877588.6834",
+    "availableBalance": "68726254.2185"
+  },
+  {
+    "accountId": 4,
+    "accountName": "Imperium",
+    "category": "category 3",
+    "tags": [
+      "tag 1",
+      "tag 2"
+    ],
+    "balance": "25696648.4237",
+    "availableBalance": "72534312.931"
+  },
+  {
+    "accountId": 5,
+    "accountName": "Isosphere",
+    "category": "category 2",
+    "tags": [
+      "tag 4"
+    ],
+    "balance": "84044485.1751",
+    "availableBalance": "44572301.8303"
+  },
+  {
+    "accountId": 6,
+    "accountName": "Noralex",
+    "category": "category 3",
+    "tags": [
+      "tag 1",
+      "tag 2",
+      "tag 3",
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "96376160.857",
+    "availableBalance": "36440441.7845"
+  },
+  {
+    "accountId": 7,
+    "accountName": "Austech",
+    "category": "category 2",
+    "tags": [
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "42271376.2656",
+    "availableBalance": "48164875.2077"
+  },
+  {
+    "accountId": 8,
+    "accountName": "Orbiflex",
+    "category": "category 1",
+    "tags": [
+      "tag 2",
+      "tag 3"
+    ],
+    "balance": "98989833.1751",
+    "availableBalance": "45287300.6983"
+  },
+  {
+    "accountId": 9,
+    "accountName": "Sonique",
+    "category": "category 3",
+    "tags": [
+      "tag 3",
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "94112342.6747",
+    "availableBalance": "69342621.1678"
+  },
+  {
+    "accountId": 10,
+    "accountName": "Quarmony",
+    "category": "category 1",
+    "tags": [
+      "tag 2",
+      "tag 3"
+    ],
+    "balance": "89209805.3682",
+    "availableBalance": "24483999.0721"
+  },
+  {
+    "accountId": 11,
+    "accountName": "Acumentor",
+    "category": "category 2",
+    "tags": [
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "47888901.7888",
+    "availableBalance": "80656149.0822"
+  },
+  {
+    "accountId": 12,
+    "accountName": "Sportan",
+    "category": "category 2",
+    "tags": [
+      "tag 2",
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "58900560.976",
+    "availableBalance": "2466471.7305"
+  },
+  {
+    "accountId": 13,
+    "accountName": "Exoswitch",
+    "category": "category 1",
+    "tags": [
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "34177095.0046",
+    "availableBalance": "47086449.6246"
+  },
+  {
+    "accountId": 14,
+    "accountName": "Volax",
+    "category": "category 2",
+    "tags": [
+      "tag 3"
+    ],
+    "balance": "86537437.3986",
+    "availableBalance": "71939469.5575"
+  },
+  {
+    "accountId": 15,
+    "accountName": "Olympix",
+    "category": "category 2",
+    "tags": [
+      "tag 1"
+    ],
+    "balance": "35776461.4493",
+    "availableBalance": "83445985.1706"
+  },
+  {
+    "accountId": 16,
+    "accountName": "Buzzopia",
+    "category": "category 1",
+    "tags": [
+      "tag 1",
+      "tag 2"
+    ],
+    "balance": "9567212.7698",
+    "availableBalance": "38300281.7525"
+  },
+  {
+    "accountId": 17,
+    "accountName": "Xelegyl",
+    "category": "category 1",
+    "tags": [
+      "tag 1",
+      "tag 2",
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "89305010.7976",
+    "availableBalance": "80062324.8802"
+  },
+  {
+    "accountId": 18,
+    "accountName": "Manufact",
+    "category": "category 1",
+    "tags": [
+      "tag 5"
+    ],
+    "balance": "98838415.7579",
+    "availableBalance": "17940500.0105"
+  },
+  {
+    "accountId": 19,
+    "accountName": "Exotechno",
+    "category": "category 1",
+    "tags": [
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "47237375.0455",
+    "availableBalance": "77837350.5587"
+  },
+  {
+    "accountId": 20,
+    "accountName": "Amtas",
+    "category": "category 1",
+    "tags": [
+      "tag 3",
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "42783236.464",
+    "availableBalance": "27011699.3631"
+  },
+  {
+    "accountId": 21,
+    "accountName": "Ronbert",
+    "category": "category 1",
+    "tags": [
+      "tag 1",
+      "tag 2",
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "96841484.7103",
+    "availableBalance": "99273507.1413"
+  },
+  {
+    "accountId": 22,
+    "accountName": "Unisure",
+    "category": "category 1",
+    "tags": [
+      "tag 1",
+      "tag 2",
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "56648847.8872",
+    "availableBalance": "7375941.9032"
+  },
+  {
+    "accountId": 23,
+    "accountName": "Rotodyne",
+    "category": "category 3",
+    "tags": [
+      "tag 2",
+      "tag 3",
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "47648618.3755",
+    "availableBalance": "14139426.1599"
+  },
+  {
+    "accountId": 24,
+    "accountName": "Solgan",
+    "category": "category 2",
+    "tags": [
+      "tag 2",
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "1967933.5494",
+    "availableBalance": "59498786.4773"
+  },
+  {
+    "accountId": 25,
+    "accountName": "Elentrix",
+    "category": "category 3",
+    "tags": [
+      "tag 1"
+    ],
+    "balance": "819933.0992",
+    "availableBalance": "88697411.7307"
+  },
+  {
+    "accountId": 26,
+    "accountName": "Bittor",
+    "category": "category 3",
+    "tags": [
+      "tag 2"
+    ],
+    "balance": "75793122.8331",
+    "availableBalance": "26254169.3917"
+  },
+  {
+    "accountId": 27,
+    "accountName": "Fortean",
+    "category": "category 2",
+    "tags": [
+      "tag 4",
+      "tag 5"
+    ],
+    "balance": "44526319.3297",
+    "availableBalance": "70068398.8458"
+  },
+  {
+    "accountId": 28,
+    "accountName": "Dentrex",
+    "category": "category 3",
+    "tags": [
+      "tag 2",
+      "tag 3",
+      "tag 4"
+    ],
+    "balance": "18366933.1555",
+    "availableBalance": "43171669.4683"
+  },
+  {
+    "accountId": 29,
+    "accountName": "Emergent",
+    "category": "category 1",
+    "tags": [
+      "tag 1"
+    ],
+    "balance": "79324404.2262",
+    "availableBalance": "25744421.2131"
+  },
+  {
+    "accountId": 30,
+    "accountName": "Quailcom",
+    "category": "category 1",
+    "tags": [
+      "tag 3"
+    ],
+    "balance": "82002509.563",
+    "availableBalance": "15822351.8681"
+  }
+]

@@ -1,0 +1,37 @@
+<table fxFill mat-table [dataSource]="accounts" class="accounts-table mat-elevation-z8">
+  <ng-container matColumnDef="accountName">
+    <th mat-header-cell *matHeaderCellDef>Account Name </th>
+    <td mat-cell *matCellDef="let element"> {{element.accountName}}
+
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="category">
+    <th mat-header-cell *matHeaderCellDef>Category </th>
+    <td mat-cell *matCellDef="let element"> {{element.category}}
+
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="tags">
+    <th mat-header-cell *matHeaderCellDef>Tags </th>
+    <td mat-cell *matCellDef="let element"> {{element.tags.join(', ')}}
+
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="balance">
+    <th mat-header-cell *matHeaderCellDef>Balance </th>
+    <td mat-cell *matCellDef="let element"> {{element.balance|currency: '':''}} BTC<br />
+      {{(element.balance * exchangeRate | currency:'USD')}}
+
+    </td>
+  </ng-container>
+  <ng-container matColumnDef="availableBalance">
+    <th mat-header-cell *matHeaderCellDef>Available Balance </th>
+    <td mat-cell *matCellDef="let element"> {{element.availableBalance|currency: '':''}} BTC<br />
+      {{(element.availableBalance * exchangeRate | currency:'USD')}}
+
+    </td>
+  </ng-container>
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;" class="clickable-row" appHighlight
+    [previousValue]="previousExchangeRate" [currentValue]="exchangeRate" (click)="redirectToDetail(row.accountId)"></tr>
+</table>

@@ -1,0 +1,12 @@
+<div class="padding">
+  <div fxLayout="column" fxLayoutGap="20px">
+    <div>
+      Bitcoin: {{exchangeRate|currency}}
+    </div>
+    <div fxFill>
+      <app-accounts-table fxFill class="accounts-table" [exchangeRate]="exchangeRate"
+        [previousExchangeRate]="previousExchangeRate">
+      </app-accounts-table>
+    </div>
+  </div>
+</div>

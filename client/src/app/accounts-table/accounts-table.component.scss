@@ -1,0 +1,13 @@
+tr.clickable-row {
+    cursor: pointer;
+
+    &:hover {
+        background-color: #eee;
+    }
+}
+
+.mat-column-balance,
+.mat-column-availableBalance {
+    width: 150px;
+    text-align: right;
+}
