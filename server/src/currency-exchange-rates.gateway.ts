@@ -9,7 +9,7 @@ import { ExchangeRateMessage } from './socketMessages/exchangeRateMessage';
 @WebSocketGateway()
 export class CurrencyExchangeRatesGateway {
   private readonly exchangeRates = [1, 2, 3, 4, 4, 3, 2, 1];
-  private readonly intervalInSeconds = 5;
+  private readonly intervalInSeconds = 15;
 
   @SubscribeMessage<MessageType>(MessageType.exchangeRate)
   handleMessage(): Observable<ExchangeRateMessage> {
