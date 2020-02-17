@@ -1,4 +1,4 @@
-# technest
+# Technest
 
 Project has 2 folders:
 - "client" with the FE code (Angular)
